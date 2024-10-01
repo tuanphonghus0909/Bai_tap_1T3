@@ -7,7 +7,7 @@ doubleclick nút thì LED sẽ chuyển sang trạng thái nhấp nháy liên t�
 nếu tiếp tục nhấn single click thì LED lại chuyển trạng thái bật/tắt
 Lưu ý: khử rung phím bấm
 Mục đích DEMO
-Project này sử dụng thư viện mã mở nổi tiếng gần đây là OneButton và thư viện LED tự viết:
+Project này sử dụng thư viện mã mở nổi tiếng gần đây là OneButton và thư viện LED tự viết để làm bài tập về nhà:
 
 OneButton tác giả Matthias Hertel: https://github.com/mathertel/OneButton
 LED.h Cung cấp API sáng sủa để khởi tạo và điều khiển LED (đảo trạng thái - flip, và nháy - blink)
